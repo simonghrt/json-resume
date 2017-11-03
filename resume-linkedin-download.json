@@ -1,0 +1,367 @@
+{
+  "basics": {
+    "name": "Simon Gheeraert",
+    "label": "Being passionate about coding and innovative projects, I am currently enrolled in the Digital Tech Year, an excellence program designed to meet organization's digital needs. During this course, I'll be designing and producing disruptive innovations that will be implemented by @ParisDigitalLab partners.",
+    "phone": "",
+    "website": "",
+    "summary": "Information Technology & Services",
+    "location": {
+      "address": "Jun 11",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Upcall",
+      "position": "Aug 2017",
+      "website": "",
+      "startDate": "undefined-San Francisco Bay Area-01",
+      "summary": "Software Developer Internship",
+      "highlights": [],
+      "endDate": "undefined-Feb 2017-01"
+    },
+    {
+      "company": "Paris Digital Lab",
+      "position": "Feb 2017",
+      "website": "",
+      "startDate": "undefined-Région de Paris, France-01",
+      "summary": "Developer And Agile Prototyper",
+      "highlights": [],
+      "endDate": "undefined-Aug 2016-01"
+    },
+    {
+      "company": "Banque Populaire",
+      "position": "Nov 2016",
+      "website": "",
+      "startDate": "undefined-0-01",
+      "summary": "Open Innovation Hackathon",
+      "highlights": [],
+      "endDate": "undefined-Nov 2016-01"
+    },
+    {
+      "company": "Junior Supélec Stratégie",
+      "position": "Sep 2016",
+      "website": "",
+      "startDate": "undefined-0-01",
+      "summary": "Full-Stack Web Developer",
+      "highlights": [],
+      "endDate": "undefined-Jul 2016-01"
+    },
+    {
+      "company": "Generative Objects",
+      "position": "Aug 2016",
+      "website": "",
+      "startDate": "undefined-0-01",
+      "summary": "Engineering Intern",
+      "highlights": [],
+      "endDate": "undefined-Jun 2016-01"
+    },
+    {
+      "company": "Junior Supélec Stratégie",
+      "position": "Jan 2016",
+      "website": "",
+      "startDate": "undefined-Metz-01",
+      "summary": "Web developer",
+      "highlights": [],
+      "endDate": "undefined-Nov 2015-01"
+    },
+    {
+      "company": "PSA Peugeot Citroën",
+      "position": "Jul 2015",
+      "website": "",
+      "startDate": "undefined-Tréméry-01",
+      "summary": "Factory Operator",
+      "highlights": [],
+      "endDate": "undefined-Jun 2015-01"
+    },
+    {
+      "company": "UNION NORIAP DEVELOPPEMENT",
+      "position": "Aug 2014",
+      "website": "",
+      "startDate": "undefined-0-01",
+      "summary": "Warehouseman",
+      "highlights": [],
+      "endDate": "undefined-Jul 2014-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "CentraleSupelec",
+      "area": "",
+      "studyType": "Master of Engineering Student",
+      "startDate": "2014-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2017-01-01"
+    },
+    {
+      "institution": "Lycée Gustave Eiffel - Cachan",
+      "area": "",
+      "studyType": "Intensive preparation courses for the highly competitive entrance exams to the Grandes Ecoles",
+      "startDate": "2012-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2014-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Android Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Matlab",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML5",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Django",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C#",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MongoDB",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Arduino",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Machine Learning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Gestion de projet",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React Native",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Redux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Node.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Gestion de la relation avec les partenaires",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "LaTeX",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AngularJS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "WordPress",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": ".NET",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Robotique",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bootstrap",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Visual Studio",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "jQuery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Design Thinking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Chatbot",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "J2EE Web Services",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PhoneGap",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Heroku",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Français",
+      "fluency": "Native or bilingual proficiency"
+    },
+    {
+      "language": "Anglais",
+      "fluency": "Professional working proficiency"
+    },
+    {
+      "language": "Allemand",
+      "fluency": "Elementary proficiency"
+    },
+    {
+      "language": "Espagnol",
+      "fluency": "Limited working proficiency"
+    },
+    {
+      "language": "Chinois",
+      "fluency": "Elementary proficiency"
+    }
+  ],
+  "references": [
+    {
+      "name": "Cécile Petit - J'ai eu l'occasion de travailler avec Simon au cours de mes études, et j'ai pu constater que c'est une personne très dévouée dans tous ses projets.",
+      "reference": "Stage ouvrier"
+    },
+    {
+      "name": "Emma Unucic - J'ai eu l'occasion de travailler avec Simon Gheeraert dans le cadre de l'association du Bureau des Elèves de CentraleSupélec. Simon est une personne sociable qui s'est montré très dynamique dans l'organisation des différents évènements.",
+      "reference": "Stage de fin d’études"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Industrial Production Dashboard for Renault Digital and the Boston Consulting Group",
+      "startDate": "undefined-During this project, we are designing and developing an Industrial Production Dashboard for a major automaker company. This dashboard will be used to provide users information about their line of production.\n• Use of Angular2 and the Foundation CSS Framework\n• Implementation of a data visualisation map, built and edited by the user-01",
+      "summary": "Dec 2016",
+      "url": "Feb 2017"
+    },
+    {
+      "name": "Multi-tracking application",
+      "startDate": "undefined-Project for La Poste, the french post Office, we develop a hybrid mobile application (for iOS and Android).\nThe goal of this project is to develop an application which can track multiple carriers, give a better user experience and suggest new services.\nWe are part of a five-member team (3 developers, 1 designer and 1 project manager) for this project.\n• Use of React Native and Redux in order to build the mobile application\n• Use of API.ai in order to use a simple chatbot\n• Use of NodeJS, Express and MongoDB in order to build our back-end\n• Use of Python in order to parse mails and send mail\n• Use of Heroku in order to deploy the servers\n• Use of MLab for the database-01",
+      "summary": "Oct 2016",
+      "url": ""
+    },
+    {
+      "name": "Smart Contact",
+      "startDate": "undefined-Project for Orange, a major international telecommunications company, we develop an Android application on the 6.0 Android version (Marshmallow). \nThe goal of this project is to develop an application retrieving the most relevant contacts that the user is likely to call or message at the time he uses the application.\n• Use of Android Studio for developing the Android application\n• Complex algorithms for getting the most relevant contact list-01",
+      "summary": "Sep 2016",
+      "url": ""
+    },
+    {
+      "name": "Autonomous navigation of a robot",
+      "startDate": "undefined-With a school mate, using ROS (Robot Operating System) on Linux and Python, we developed an algorithm which allowed the robot to detect any obstacle, to scan his surroundings, to choose his next unexplored direction and to reach this place without troubles. The robot was a Turtlebot.-01",
+      "summary": "Feb 2016",
+      "url": "Jun 2016"
+    },
+    {
+      "name": "Android musical application",
+      "startDate": "undefined-Conception and development of an Android musical application allowing to cut songs and display differents sounds in the same time using a database. Use of the integrated development environement Eclipse, the language Java and the database SQLLite.-01",
+      "summary": "May 2015",
+      "url": ""
+    }
+  ]
+}

@@ -1,130 +1,233 @@
 {
-  "basics": {
-    "name": "Simon Gheeraert",
-    "label": "Programmer",
-    "picture": "",
+	"basics": {
+		"name": "Simon Gheeraert",
+		"label": "Software Engineer - Looking for a final year Internship starting in April 2018",
+    "picture": "http://image.noelshack.com/fichiers/2017/44/4/1509660165-profile.jpg",
     "email": "simon.gheeraert.sg@gmail.com",
-    "phone": "(912) 555-4321",
-    "website": "http://richardhendricks.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
-      },
-      {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
-      }
-    ]
-  },
-  "work": [
-    {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "http://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
-      "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": [
-        "Awarded 'Teacher of the Month'"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
-    {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
-    }
-  ],
+		"phone": "+33645118111",
+		"website": "http://simongheeraert.com",
+		"summary": "",
+		"location": {
+			"address": "",
+			"postalCode": "",
+			"city": "Paris",
+			"countryCode": "",
+			"region": ""
+		},
+		"profiles": [{
+			"network": "Github",
+			"username": "simonghrt",
+			"url": ""
+		}]
+	},
+	"work": [{
+			"company": "Upcall - San Francisco, USA",
+			"position": "Software Developer Internship",
+			"website": "http://upcall.com",
+			"startDate": "2017-02-01",
+			"summary": "Upcall is a human-powered outbound sales & marketing calling platform",
+			"highlights": [
+				"Development of new features on the Upcall platform (Angular, Webpack and several libraries)",
+				"Update of the public website (HTML, CSS)"
+			],
+			"endDate": "2017-08-01"
+		},
+		{
+			"company": "Paris Digital Lab - Paris, France",
+			"position": "Developer And Agile Prototyper",
+			"website": "http://paris-digital-lab.com/",
+			"startDate": "2016-08-01",
+			"summary": "",
+			"highlights": [
+				"Creating tech-oriented disruptive innovations for Paris Digital Lab partners in a lean start-up methodology",
+				"Industrial Production Dashboard for Renault (Java, Angular)",
+				"Multi-tracking application for La Poste (React Native, Django, Node)",
+				"Smart Contact for Orange (Android, Node, AWS)"
+			],
+			"endDate": "2017-02-01"
+		},
+		{
+			"company": "Junior Supélec Stratégie - Metz, France",
+			"position": "Full-Stack Web Developer",
+			"website": "http://fr.j2s.eu/",
+			"startDate": "2016-02-01",
+			"summary": "",
+			"highlights": [
+				"Development of a website with the following features : register, login, complete a survey or also give a feedback about a user (Python, Django, SQL, Heroku)",
+				"Development of a simple website for a customer of the Junior-Enterprise of CentraleSupelec (Wordpress, HTML, 1&1)"
+			],
+			"endDate": "2016-09-01"
+		},
+		{
+			"company": "Generative Objects - Paris, France",
+			"position": "Engineering Intern",
+			"website": "http://generativeobjects.com/",
+			"startDate": "2016-06-01",
+			"summary": "The Generative Objects platform enables non-developers to generate enterprise applications directly from business rules",
+			"highlights": [
+				"Development of generated web applications using the Generative Objects platform",
+				"Collection and reuse of OpenData in a web application",
+				"Using REST API and coding in C#/.NET, development of an autonomous connection to Open Data sources"
+			],
+			"endDate": "2016-08-01"
+		}
+	],
+	"education": [{
+			"institution": "CentraleSupelec",
+			"area": "Metz, France",
+			"studyType": "Master of Engineering Student",
+			"startDate": "2014-01-01",
+			"gpa": "",
+			"courses": [
+        "Machine Learning, Reinforcement Learning, Deep Learning",
+        "Spectral modelling and analysis",
+        "Language and Image processing",
+        "Computer Science, Algorithms and Programming",
+        "Autonomous robotics",
+        "IoT"
+      ],
+			"endDate": "2017-01-01"
+		},
+		{
+			"institution": "Lycée Gustave Eiffel",
+			"area": "Cachan, France",
+			"studyType": "Intensive preparation courses for the highly competitive entrance exams to the Grandes Ecoles",
+			"startDate": "2012-01-01",
+			"gpa": "",
+			"courses": [
+        "Mathematics",
+        "Physics",
+        "Engineering Science"
+      ],
+			"endDate": "2014-01-01"
+		}
+	],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "Front-end",
+      "level": "",
       "keywords": [
         "HTML",
         "CSS",
-        "Javascript"
+        "Sass",
+        "Bootstrap"
       ]
     },
     {
-      "name": "Compression",
-      "level": "Master",
+      "name": "Mobile Development",
+      "level": "",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "Java for Android",
+        "Ionic",
+        "React Native"
+      ]
+    },
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "Python",
+        "Java",
+        "C++",
+        "C#"
+      ]
+    },
+    {
+      "name": "Back-end",
+      "level": "",
+      "keywords": [
+        "Django",
+        "J2EE",
+        "Node JS",
+        "SQL",
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "Javascript",
+      "level": "",
+      "keywords": [
+        "jQuery",
+        "Angular",
+        "React"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "level": "",
+      "keywords": [
+        "Scikit-learn"
+      ]
+    },
+    {
+      "name": "Network",
+      "level": "",
+      "keywords": [
+        "Linux",
+        "Git",
+        "Heroku",
+        "AWS"
+      ]
+    },
+    {
+      "name": "Robotics/Hardware",
+      "level": "",
+      "keywords": [
+        "Arduino",
+        "ROS"
       ]
     }
   ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
-    }
-  ]
+	"languages": [{
+			"language": "Français",
+			"fluency": "Native or bilingual proficiency"
+		},
+		{
+			"language": "Anglais",
+			"fluency": "Professional working proficiency"
+		},
+		{
+			"language": "Allemand",
+			"fluency": "Elementary proficiency"
+		},
+		{
+			"language": "Espagnol",
+			"fluency": "Limited working proficiency"
+		},
+		{
+			"language": "Chinois",
+			"fluency": "Elementary proficiency"
+		}
+	],
+	"projects": [{
+			"name": "Industrial Production Dashboard for Renault Digital and the Boston Consulting Group",
+			"startDate": "undefined-During this project, we are designing and developing an Industrial Production Dashboard for a major automaker company. This dashboard will be used to provide users information about their line of production.\n• Use of Angular2 and the Foundation CSS Framework\n• Implementation of a data visualisation map, built and edited by the user-01",
+			"summary": "Dec 2016",
+			"url": "Feb 2017"
+		},
+		{
+			"name": "Multi-tracking application",
+			"startDate": "undefined-Project for La Poste, the french post Office, we develop a hybrid mobile application (for iOS and Android).\nThe goal of this project is to develop an application which can track multiple carriers, give a better user experience and suggest new services.\nWe are part of a five-member team (3 developers, 1 designer and 1 project manager) for this project.\n• Use of React Native and Redux in order to build the mobile application\n• Use of API.ai in order to use a simple chatbot\n• Use of NodeJS, Express and MongoDB in order to build our back-end\n• Use of Python in order to parse mails and send mail\n• Use of Heroku in order to deploy the servers\n• Use of MLab for the database-01",
+			"summary": "Oct 2016",
+			"url": ""
+		},
+		{
+			"name": "Smart Contact",
+			"startDate": "undefined-Project for Orange, a major international telecommunications company, we develop an Android application on the 6.0 Android version (Marshmallow). \nThe goal of this project is to develop an application retrieving the most relevant contacts that the user is likely to call or message at the time he uses the application.\n• Use of Android Studio for developing the Android application\n• Complex algorithms for getting the most relevant contact list-01",
+			"summary": "Sep 2016",
+			"url": ""
+		},
+		{
+			"name": "Autonomous navigation of a robot",
+			"startDate": "undefined-With a school mate, using ROS (Robot Operating System) on Linux and Python, we developed an algorithm which allowed the robot to detect any obstacle, to scan his surroundings, to choose his next unexplored direction and to reach this place without troubles. The robot was a Turtlebot.-01",
+			"summary": "Feb 2016",
+			"url": "Jun 2016"
+		},
+		{
+			"name": "Android musical application",
+			"startDate": "undefined-Conception and development of an Android musical application allowing to cut songs and display differents sounds in the same time using a database. Use of the integrated development environement Eclipse, the language Java and the database SQLLite.-01",
+			"summary": "May 2015",
+			"url": ""
+		}
+	]
 }
